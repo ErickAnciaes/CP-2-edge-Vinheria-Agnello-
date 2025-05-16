@@ -69,6 +69,10 @@ Biblioteca DHT.h
 🎥 Link para vídeo explicativo com demonstração, desafios e soluções encontradas durante o desenvolvimento.
 🔗 https://encr.pw/VideoExplicativo
 
+## Imagem Do Projeto
+![image](https://github.com/user-attachments/assets/9477a072-43bc-4f87-82f6-2cfc0869ac55)
+
+
 ## Autores
 
 - [@erickanciaes](https://www.github.com/erickanciaes)
